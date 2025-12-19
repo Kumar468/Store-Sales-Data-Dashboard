@@ -52,7 +52,3 @@ Store Sales Dashboard – Key Insights
     Sales peak around March, with higher quantities sold compared to February and April.
     A noticeable rise in both sales value and quantity during the mid-month period suggests promotional or seasonal effects.
 
-
-Geographic and time-series visualization
-
-Interactive filtering by product, payment method, and location
